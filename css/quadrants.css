@@ -1,6 +1,14 @@
 h1 {
   font-family: impact;
   text-align: center;
-  text-style: italic; 
+  text-style: italic;
+}
 
+img {
+  float: left;
+  padding-right: 20px;
+}
+
+.created_by {
+  float: left;
 }
